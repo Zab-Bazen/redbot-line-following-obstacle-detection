@@ -37,4 +37,4 @@ This helps with calibration and debugging.
 4. Open Serial Monitor at **9600 baud**
 
 ## Demo Video
-*(Add video or link here)*
+https://www.youtube.com/watch?v=KNL2H40OZEw
