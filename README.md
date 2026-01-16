@@ -1,4 +1,4 @@
-# ReadBot README
+# RedBot README
 # RedBot Line Following + Obstacle Detection (C/C++)
 
 This project controls a SparkFun RedBot to follow a line using 3 reflectance sensors (left/center/right) and detect obstacles using a SharpIR distance sensor.
